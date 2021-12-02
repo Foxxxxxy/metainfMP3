@@ -1,0 +1,3 @@
+C:/Users/Nikita/Documents/prog_labs/metainfMP3/cmake-build-debug/CMakeFiles/metainfMP3.dir
+C:/Users/Nikita/Documents/prog_labs/metainfMP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikita/Documents/prog_labs/metainfMP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
